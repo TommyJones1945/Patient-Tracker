@@ -40,7 +40,6 @@ document.getElementById("myBtn").addEventListener("click", changeMarkerPosition)
     marker.setPosition(latlng);
 }
 </script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCf3KA88Zux8rSjIFyhtT65HM1ZRzqJF8k&callback=initMap"></script>
 <div>
 <br>
 <br>
